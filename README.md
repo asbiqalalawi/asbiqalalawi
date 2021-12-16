@@ -47,4 +47,3 @@ A **MOBILE DEVELOPMENT** ***Enthusiast*** 🚀.
 
 <img src="https://github-readme-stats.vercel.app/api?username=asbiqalalawi&show_icons=true&hide_border=true&count_private=true&theme=dark&icon_color=fad000" alt="Asbiq's GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asbiqalalawi&count_private=true&theme=dark" alt="Asbiq" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=asbiqalalawi&count_private=true&theme=dark" alt="Asbiq" />
