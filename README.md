@@ -47,3 +47,10 @@ A **MOBILE DEVELOPMENT** ***Enthusiast*** 🚀.
 
 <img src="https://github-readme-stats.vercel.app/api?username=asbiqalalawi&show_icons=true&hide_border=true&count_private=true&theme=dark&icon_color=fad000" alt="Asbiq's GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asbiqalalawi&count_private=true&theme=dark" alt="Asbiq" />
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=asbiqalalawi&left_color=grey&right_color=purple)
+[![Repos Badge](https://badges.pufler.dev/repos/asbiqalalawi)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/asbiqalalawi)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/asbiqalalawi)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/asbiqalalawi/asbiqalalawi)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/asbiqalalawi/asbiqalalawi)](https://badges.pufler.dev)
