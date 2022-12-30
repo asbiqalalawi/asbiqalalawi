@@ -27,12 +27,14 @@ A **MOBILE DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a computer science student at the University of Lampung.
-- 🌱 My interest lies in mobile development.
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [asbiqalalawi@gmail.com](mailto:asbiqalalawi@gmail.com).
-
-
+<p>Hi there! My name is Asbiq Al Alawi and I am a mobile app developer with 2 years of experience using the Flutter framework. I have a strong passion for building intuitive, user-friendly, and feature-rich mobile applications.</p>
+<br/>
+<p>I have worked on a variety of projects across different industries, including healthcare, education, ecommerce, and fintech. I am always looking for new challenges and opportunities to expand my skillset and learn about new technologies.</p>
+<br/>
+<p>In my free time, you can find me participating in developer communities and attending meetups and conferences. I am always looking to connect with other professionals and learn from their experiences.</p>
+<br/>
+<p>Thank you for visiting my profile. I hope you find my projects and contributions useful and informative. Feel free to reach out if you have any questions or want to collaborate on a project.</p>
+<br/>
 
 **Languages and Tools:**  
 
@@ -48,9 +50,9 @@ A **MOBILE DEVELOPMENT** ***Enthusiast*** 🚀.
 <img src="https://github-readme-stats.vercel.app/api?username=asbiqalalawi&show_icons=true&hide_border=true&count_private=true&theme=dark&icon_color=fad000" alt="Asbiq's GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asbiqalalawi&count_private=true&theme=dark" alt="Asbiq" />
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=asbiqalalawi&left_color=grey&right_color=purple)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=asbiqalalawi&left_color=grey&right_color=purple)
 [![Repos Badge](https://badges.pufler.dev/repos/asbiqalalawi)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/asbiqalalawi)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/asbiqalalawi)](https://badges.pufler.dev)
 [![Visits Badge](https://badges.pufler.dev/visits/asbiqalalawi/asbiqalalawi)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/asbiqalalawi/asbiqalalawi)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/asbiqalalawi/asbiqalalawi)](https://badges.pufler.dev) -->
