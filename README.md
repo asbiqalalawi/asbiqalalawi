@@ -27,7 +27,7 @@ A **MOBILE DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-<p>Hi there! My name is Asbiq Al Alawi and I am a mobile app developer with 2 years of experience using the Flutter framework. I have a strong passion for building intuitive, user-friendly, and feature-rich mobile applications.</p>
+<p>Hi there! My name is Asbiq Al Alawi and I am a mobile app developer with 3 years of experience using the Flutter framework. I have a strong passion for building intuitive, user-friendly, and feature-rich mobile applications.</p>
 <br/>
 <p>I have worked on a variety of projects across different industries, including healthcare, education, ecommerce, and fintech. I am always looking for new challenges and opportunities to expand my skillset and learn about new technologies.</p>
 <br/>
